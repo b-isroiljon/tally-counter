@@ -3,4 +3,4 @@
 >- CSS
 >- JS
 ---
-### [To watch click here!]( https://b-isroiljon.github.io/random-generator/)
+### [To watch click here!](https://b-isroiljon.github.io/tally-counter/)
